@@ -7,4 +7,4 @@ This is my data science portfolio.
 
 Simmons University
 
-[Project 1](./projects/Project1)
+[Project 1](./projects/Project1.html)
