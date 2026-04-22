@@ -6,3 +6,5 @@ This is my data science portfolio.
 **Bachelor of Arts in Psychology, anticipated May 2027**
 
 Simmons University
+
+[Project 1](./Projects/FinalProject_Guidelines.html)
